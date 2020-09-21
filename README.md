@@ -1,2 +1,2 @@
-# TypeScript
-TypeScript
+# typescript
+TypeScript training files
